@@ -12,3 +12,4 @@ def message():
 
 # Call the main function.
 main()
+print("End of program")
